@@ -73,11 +73,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Monitoramento e ajustes.
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
+- [x] Defina o propósito do template;
+- [x] Identifique os elementos principais;
+- [x] Esboce o layout;
+- [x] Desenvolva o design;
+- [x] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Finalize e aprovação.
       
