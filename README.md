@@ -77,8 +77,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Esboce o layout;
 - [x] Desenvolva o design;
 - [x] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [x] Documente instruções de uso;
+- [x] Finalize e aprovação.
       
 ## Sprint 4
 - [ ] Defina o propósito do template;
