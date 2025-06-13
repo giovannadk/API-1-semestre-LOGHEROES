@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/948f155b-c061-44b6-ab12-153b9f05d104
 # Aprendizado por Projeto Integrador (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
