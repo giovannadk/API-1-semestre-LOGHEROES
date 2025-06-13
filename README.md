@@ -57,52 +57,51 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [x] Defina o propósito do template;
+- [x] Defina o propósito do trabalho;
 - [x] Identifique os elementos principais;
-- [x] Esboce o layout;
+- [x] Trate os dados no Python
+- [x] Esboce o layout do Power BI;
 - [x] Desenvolva o design;
 - [x] Teste e revise;
-- [x] Documente instruções de uso;
 - [x] Finalize e aprovação.
 
 ## Sprint 2
-- [x] Documento passo a passo;
-- [x] Treinamento com os professores;
-- [x] Treinamento com os alunos;
-- [x] Monitoramento e ajustes.
+- [x] Defina os ajustes da sprint;
+- [x] Acrescente dados de regiões no Python
+- [x] Desenvolvimento do Power BI;
+- [x] Monitoramento e testes.
       
 ## Sprint 3
-- [x] Defina o propósito do template;
+- [x] Defina os ajustes da sprint;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Desenvolva o design;
 - [x] Teste e revise;
 - [x] Documente instruções de uso;
-- [x] Finalize e aprovação.
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [x] Defina os ajustes finais;
+- [x] Esboce o layout;
+- [x] Desenvolva a apresentação de slides;
+- [x] Teste e revise;
+- [x] Documente instruções de uso;
+- [x] Apresente o projeto na feira de soluções;
+- [x] Finalize e aprovação.
 
 
 ## Product backlog
 
 Rank | Prioridade | User Story| Estimativa| Sprint |Requisito do parceiro
 |------|--------|------|--------|----------|---------|
-|01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | [ ]
+|01 |      Alta     | Como gerente, quero visualizar a divisão de dados para separar São Paulo por municípios. |   4   |  1       |     RN.P.2       | [MVP](https://github.com/user-attachments/assets/fc567f65-823f-4192-93fd-9cf27503dde0) |
 |02|     Alta      | Como administrador do sistema, quero ter a visualização dos municípios que mais exportam para criação de uma lista. |       5     |      1      |       RN.P.1      | [ ]
 |03|     Alta       |	Como especialista em logística, quero uma lista das principais cargas movimentadas por município para criar um ranking de prioridades.|      2     |        1     |      RN.P.1 | [ ]
-|04|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       | [ ]
+|04|      Alta      | Como cliente, quero saber quais são os principais fornecedores e clientes para controle da empresa. |        2      |      2      |       RN.P.5       | |[MVP](https://github.com/user-attachments/assets/7c483a93-8722-4dc8-9014-a8eeebdd5c7e) | 
 |05|      Média      |	Como cliente, quero criar um ranking para visualizar o valor agregado de exportação. |     3      |      2      |       RN.P.6       | [ ]
 |06|    Média    | Como cliente, quero ter acesso as versões do projeto através da plataforma GitHub para acompanhar o desenvolvimento da ferramenta |         6     |      2     |       RN.P.4      | [ ]
-|07|       Média      | Como usuário da ferramenta, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior.|    6    |      3    |    RN.P.3      | [ ]
+|07|       Média      | Como usuário da ferramenta, quero uma plataforma de BI para visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior.|    6    |      3    |    RN.P.3      |  [MVP](https://github.com/user-attachments/assets/456837a0-f30a-4d9c-bd5b-aa1ed6bddff1) | 
 |08|     Média        | Como administrador do sistema, quero o desempenho comercial dos municípios para comparar uns aos outros. |     3      |    3     |     RN.P.2       | [ ]
-|09|      Baixa   |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações. |      2      |       4     | RN.P.3| [ ]
+|09|      Baixa   |	Como cliente, quero poder ver quais as principais vias de transporte para escoar exportações e receber importações. |      2      |       4     | RN.P.3|  [MVP](https://github.com/user-attachments/assets/7dfa2c04-736d-4a50-bd0c-b9b0f1034926)  | 
 |10|     Baixa      | Como especialista em logística, quero que seja criada uma visualização gráfica interativa para apresentar a evolução da balança comercial dos municípios de SP no período de 2023 a 2024.      |       4      |     4       |RN.P.5| [ ]
 |11|     Baixa       | Como cliente, quero ter acesso a ferramentas para buscar cargas por código NCM e aplicar filtros personalizados para análise específica.      |      3       |     4      |RN.P.6| [ ]
 
